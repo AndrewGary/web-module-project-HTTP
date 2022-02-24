@@ -22,5 +22,5 @@ const DeleteMovieModal = () => {
         </div>
     </div>)
 }
-
+//
 export default DeleteMovieModal;
